@@ -8,12 +8,12 @@ import firebase from "firebase/compat/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: process.env.NEXT_PUBLIC_FIREBASE_API_KEY,
-  authDomain: process.env.NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN,
-  projectId: process.env.NEXT_PUBLIC_FIREBASE_PROJECT_ID,
-  storageBucket: process.env.NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET,
-  messagingSenderId: process.env.NEXT_PUBLIC_FIREBASE__MESSAGING_SENDER_ID,
-  appId: process.env.NEXT_PUBLIC_FIREBASE_APP_ID
+  apiKey: "AIzaSyAydYxkBrg_KZiQVBj7Ph12azSxvF6Dn7U",
+  authDomain: "summarist-6e7d5.firebaseapp.com",
+  projectId: "summarist-6e7d5",
+  storageBucket: "summarist-6e7d5.appspot.com",
+  messagingSenderId: "317948998700",
+  appId: "1:317948998700:web:9a55055247ab1bec630d89"
 };
 
 // Initialize Firebase
